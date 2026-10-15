@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/dockerspawner/commit/a73d0de667e43a6967d4c870c00d6b11c9a0dd17",
       "git:hexsha": "a73d0de667e43a6967d4c870c00d6b11c9a0dd17",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/dockerspawner/commit/1f43de53cd18ad5120dcba2af7ebaeef9647d292",
