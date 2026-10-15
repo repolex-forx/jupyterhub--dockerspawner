@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "dockerspawner",
+  "versions": [
+    {
+      "commit": "a73d0de667e43a6967d4c870c00d6b11c9a0dd17",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:51:37.193123+00:00"
+    }
+  ]
+}
